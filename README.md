@@ -1,10 +1,13 @@
 # 🚀 **Currículo - Elias Andrade**  
+
+![30844283](https://github.com/user-attachments/assets/542f791e-8e6d-4432-8fba-fda29190c1d9)
+
+
 **🔧 Arquiteto de Soluções Python Full Stack & Node.js Junior | DevOps Specialist**  
 🗺️ **Maringá, PR, Brasil**  
 📧 oeliasandrade@gmail.com | 📞 +55 44 98859-7116  
 🌐 [LinkedIn](https://linkedin.com/in/itilmgf) | [GitHub](https://github.com/chaos4455)  
 
-![30844283](https://github.com/user-attachments/assets/542f791e-8e6d-4432-8fba-fda29190c1d9)
 
 ---
 
