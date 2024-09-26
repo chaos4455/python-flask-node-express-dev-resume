@@ -8,6 +8,14 @@
 📧 oeliasandrade@gmail.com | 📞 +55 44 98859-7116  
 🌐 [LinkedIn](https://linkedin.com/in/itilmgf) | [GitHub](https://github.com/chaos4455)  
 
+## 📄 **Currículos de Arquiteto de Soluções**
+
+- 🎨 **Versão com ícones e emojis**:  
+  [Currículo - Elias Andrade - Analista DevOps e Arquiteto de Soluções Python Full Stack v5 - Remoto](https://github.com/chaos4455/python-flask-node-express-dev-resume/blob/main/Curr%C3%ADculo%20-%20Elias%20Andrade%20-%20Analista%20Devops%20e%20Arquiteto%20de%20Solu%C3%A7%C3%B5es%20%20Python%20Full%20Stack%20v5%20-%20Remoto.pdf)
+
+- 📝 **Versão Clean*:  
+  [Currículo - Elias Andrade - Analista DevOps e Arquiteto de Soluções Python Full Stack v4 - Remoto](https://github.com/chaos4455/python-flask-node-express-dev-resume/blob/main/Curr%C3%ADculo%20-%20Elias%20Andrade%20-%20Analista%20Devops%20e%20Arquiteto%20de%20Solu%C3%A7%C3%B5es%20%20Python%20Full%20Stack%20v4%20-%20Remoto.pdf)
+
 
 ---
 
